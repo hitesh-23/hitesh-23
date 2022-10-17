@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I am Hitesh 👋
 
 <!--
 **hitesh-23/hitesh-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hitesh-23&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=hitesh-23&column=9&theme=gruvbox&no-frame=true"/>
 
@@ -24,5 +22,7 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hitesh-23&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true@show_ownder=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-23&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinokada&theme=neon-palenight&hide_border=true)
 
 
