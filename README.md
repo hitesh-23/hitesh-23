@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hitesh-23&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true@show_ownder=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-23)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-23&layout=compact)
 
 
